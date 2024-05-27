@@ -1,0 +1,52 @@
+{
+  "semantic": {
+    "surface": {
+      "action": {
+        "first": {
+          "default": {
+            "value": "{colors.purple.400}",
+            "type": "color"
+          }
+        },
+        "second": {
+          "default": {
+            "value": "{colors.purple.700}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "text": {
+      "action": {
+        "first": {
+          "default": {
+            "value": "{colors.purple.400}",
+            "type": "color"
+          }
+        },
+        "second": {
+          "default": {
+            "value": "{colors.purple.700}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "border": {
+      "action": {
+        "first": {
+          "default": {
+            "value": "{colors.purple.400}",
+            "type": "color"
+          }
+        },
+        "second": {
+          "default": {
+            "value": "{colors.purple.700}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}
